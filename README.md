@@ -1,6 +1,6 @@
 # Gmail to Google Sheets Automation
 
-**Author:** Digvijay (Deceptor)
+**Author:** Digvijay Rahul Deshmukh
 
 ## Overview
 
