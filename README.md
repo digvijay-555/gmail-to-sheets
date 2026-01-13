@@ -174,7 +174,7 @@ This ensures the project root is correctly added to Python's module path.
 * Gmail History API is not used (simpler but less scalable)
 * Designed for personal or single-user use
 * Large email bodies may exceed comfortable spreadsheet cell sizes
-* No scheduling (can be added via cron or task scheduler)
+* No scheduling 
 
 ---
 
@@ -182,7 +182,6 @@ This ensures the project root is correctly added to Python's module path.
 
 * OAuth credentials and tokens are excluded using `.gitignore`
 * No secrets are committed to version control
-* `credentials/README` is included as a placeholder only
 
 ---
 
